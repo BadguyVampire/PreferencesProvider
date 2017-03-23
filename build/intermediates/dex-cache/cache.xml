@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/badguy/GitProjects/PreferencesProvider/sample/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ca5e58104f56f918f0fb3a5b1b371ab599ae56b2">
+        <dex dex="/home/badguy/GitProjects/PreferencesProvider/sample/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.2.1_a69d31a9b31e96eb9b7711d666a6ef0b8d134ca8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/badguy/GitProjects/PreferencesProvider/sample/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/badguy/GitProjects/PreferencesProvider/sample/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_93102f764d769b5b3c92f2ab3cd3dc6a8c84c37c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/badguy/GitProjects/PreferencesProvider/sample/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/badguy/GitProjects/PreferencesProvider/sample/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_1e8452d822199fb406c7061ac566c13ffdbe5b8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/badguy/GitProjects/PreferencesProvider/sample/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/badguy/GitProjects/PreferencesProvider/sample/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_c776022c4eb3c17fc310ea9d1e9cd5d659c0f29b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/badguy/GitProjects/PreferencesProvider/sample/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/badguy/GitProjects/PreferencesProvider/sample/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_22c5f4b704245207bdeb40bbd5415b9ca58da0e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/badguy/GitProjects/PreferencesProvider/sample/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/badguy/GitProjects/PreferencesProvider/sample/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_17e8ee5df7c7ca0b8e0c30eac00c4047ed67403c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/badguy/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/home/badguy/GitProjects/PreferencesProvider/sample/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-2.0.1_ba94a6c63c7a94289dfb11a51950325d4d25c3a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/badguy/GitProjects/PreferencesProvider/sample/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/badguy/GitProjects/PreferencesProvider/sample/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_b917f54554fd7c7355b40802c7f43ed33e5aaaf9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/badguy/GitProjects/PreferencesProvider/sample/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/badguy/GitProjects/PreferencesProvider/sample/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_ed34e3c5da6638740a11e66df6f14081e611585a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/badguy/GitProjects/PreferencesProvider/sample/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="77014b5ff0b1916c1483445917190ee934b53998">
+        <dex dex="/home/badguy/GitProjects/PreferencesProvider/sample/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7df30003872c2cf0952311f77e51f008d9da8a1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/badguy/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho/1.3.1/2c4076b466a0eb4d6ddf5721edd35cd1adc1f317/stetho-1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2c4076b466a0eb4d6ddf5721edd35cd1adc1f317">
+        <dex dex="/home/badguy/GitProjects/PreferencesProvider/sample/build/intermediates/transforms/dex/debug/folders/1000/10/stetho-1.3.1_2c63aef706f6e6c7def1083981968a9c536e17c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/badguy/GitProjects/PreferencesProvider/sample/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="464631cd6badf198dc0f87fa09a5391e0deba1e2">
+        <dex dex="/home/badguy/GitProjects/PreferencesProvider/sample/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_63f881a6edc07927124572ac1d019f2766a6a1c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/badguy/GitProjects/PreferencesProvider/sample/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/badguy/GitProjects/PreferencesProvider/sample/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_7529a0794acdd3bdd88e438e8c9366de19cdfc99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/badguy/GitProjects/PreferencesProvider/sample/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/badguy/GitProjects/PreferencesProvider/sample/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_73cec93cc4ebe06051856ad470dd36adf345c089/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/badguy/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.2.1/d6f54d76edfbe779a50a8636b10fd3f555d8f780/butterknife-annotations-8.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d6f54d76edfbe779a50a8636b10fd3f555d8f780">
+        <dex dex="/home/badguy/GitProjects/PreferencesProvider/sample/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.2.1_40f13d550595ddbfb15c2b898d0e712e25b9abc5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/badguy/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.2/2bf96b7aa8b611c177d329452af1dc933e14501c/commons-cli-1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="/home/badguy/GitProjects/PreferencesProvider/sample/build/intermediates/transforms/dex/debug/folders/1000/10/commons-cli-1.2_79295700bf82097a3cdd9f153d8610e09ab8cacd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/badguy/GitProjects/PreferencesProvider/sample/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/badguy/GitProjects/PreferencesProvider/sample/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_40a7bf76f4686cfdcaa61952c4d76b8f6c166474/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/badguy/GitProjects/PreferencesProvider/sample/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/badguy/GitProjects/PreferencesProvider/sample/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_f8a3f150edf8c73ad5fefc474d63425e978dfda9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/badguy/GitProjects/PreferencesProvider/sample/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/badguy/GitProjects/PreferencesProvider/sample/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_e5a97c75df98bdb3b8042ee9a9b1e136f05b833e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/badguy/GitProjects/PreferencesProvider/sample/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/badguy/GitProjects/PreferencesProvider/sample/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_f3cae65f9535d86c59037d7617ff6ffada2900fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/opt/android-sdks/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/badguy/GitProjects/PreferencesProvider/sample/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_cca389274214b902f8c98e656377a21f06af787b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/badguy/GitProjects/PreferencesProvider/sample/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/badguy/GitProjects/PreferencesProvider/sample/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_0851a7b952a09578e50c9f849102c712fbccd4ea/classes.dex" />
+    </item>
+
+</items>
